@@ -5,3 +5,38 @@
   margin: 0;
   padding: 0;
 }
+
+header {
+  background-color: #add8e6;
+  padding: 20px 0;
+}
+
+/* Utils */
+.container {
+  max-width: 1180px;
+  margin: auto;
+}
+
+.col-header {
+  width: calc(100% / 3);
+  height: 50px;
+  background-color: #daa520;
+  border: 1px dashed black;
+  display: inline;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
