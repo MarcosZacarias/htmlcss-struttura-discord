@@ -47,9 +47,10 @@ header {
 
 .box-center {
   background-color: #ee82ee;
-  width: 50%;
+  width: 800px;
   height: 500px;
   margin: 20px 0;
+  border: 1px dashed black;
 }
 
 .col-main {
