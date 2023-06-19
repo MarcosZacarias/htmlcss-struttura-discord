@@ -40,3 +40,14 @@ header {
 .justify-between {
   justify-content: space-between;
 }
+
+.section-box-center {
+  background-color: #00008b;
+}
+
+.box-center {
+  background-color: #ee82ee;
+  width: 70%;
+  height: 500px;
+  margin: 20px 0;
+}
