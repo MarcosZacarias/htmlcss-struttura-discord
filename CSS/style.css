@@ -67,3 +67,7 @@ header {
   margin: 20px 0;
   border: 1px dashed black;
 }
+
+.background-grey {
+  background-color: #d3d3d3;
+}
