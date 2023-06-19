@@ -47,7 +47,23 @@ header {
 
 .box-center {
   background-color: #ee82ee;
-  width: 70%;
+  width: 50%;
   height: 500px;
   margin: 20px 0;
+}
+
+.col-main {
+  background-color: #1e90ff;
+  width: 70%;
+  min-height: 500px;
+  margin: 20px 0;
+  border: 1px dashed black;
+}
+
+.col-aside {
+  background-color: #ffc0cb;
+  width: 30%;
+  min-height: 500px;
+  margin: 20px 0;
+  border: 1px dashed black;
 }
