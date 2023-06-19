@@ -81,11 +81,15 @@ header {
   border: 1px dashed black;
 }
 
+.background-black {
+  background-color: black;
+}
+
 .col-single {
   background-color: #f08080;
   min-height: 500px;
   width: calc(100% / 3);
-  margin: 20px 0;
+  margin: 10px 0 20px 0;
   border: 1px dashed black;
 }
 
@@ -93,7 +97,7 @@ header {
   background-color: #20b2aa;
   width: calc((100% / 3) * 2);
   min-height: 500px;
-  margin: 20px 0;
+  margin: 10px 0 20px 0;
   border: 1px dashed black;
 }
 
